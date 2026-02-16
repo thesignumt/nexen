@@ -2,6 +2,7 @@
 *.d
 
 # Compiled Object files
+build/
 *.slo
 *.lo
 *.o
@@ -39,3 +40,15 @@
 
 # debug information files
 *.dwo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Vim / Neovim swap files
+*.swp
+*.swo
+
+# VSCode workspace
+.vscode/
+*.code-workspace
