@@ -52,3 +52,5 @@ Thumbs.db
 # VSCode workspace
 .vscode/
 *.code-workspace
+
+compile_commands.json
